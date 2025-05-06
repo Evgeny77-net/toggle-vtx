@@ -1,1 +1,1 @@
-powershell.exe -ExecutionPolicy Bypass -File "H:\NetworkAutomationCourse2025\DockerError\toggle-vtx-GUI.ps1"
+powershell.exe -ExecutionPolicy Bypass -File toggle-vtx-GUI.ps1
