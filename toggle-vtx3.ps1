@@ -1,3 +1,18 @@
+# ===================================================================================
+# ScriptName : toggle-vtx.ps1
+# Version    : v1.0
+# Author     : Evgeny Ageev
+# Created On : 2025-05-05
+# Last Modified: 2025-06-05
+#
+# Description:
+#   A simple script that switching Hyper-V services on and off to use Intel VT-x by MS Windows applications or third party ones.
+#
+# Copyright © 2025 Evgeny Ageev.
+# All rights reserved.
+# Unauthorized copying or redistribution strictly prohibited.
+# ===================================================================================
+
 param (
     [Parameter(Mandatory = $true)]
     [ValidateSet("docker", "vm")]
