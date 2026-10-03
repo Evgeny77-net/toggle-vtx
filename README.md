@@ -19,7 +19,9 @@ The **toggle-vtx-GUI.ps1** is a variation of script that add simple GUI for sele
 ## 2026 update
 
 Previous version works well on Windows 10, for Windows 11 and Win10 with last updates too it generate some errors.
-Now I recommend use 1.2 script, it tested on Win11 Pro 26H2 and everything OK. Only toggle-vtx-GUI_v1.2.ps1 updated and corresponding docker-vtx.bat to launch it.
+Now I recommend use 1.2 script, it tested on Win11 Pro 26H2 and everything OK.
+
+Only toggle-vtx-GUI_v1.2.ps1 updated and corresponding docker-vtx.bat to launch it.
 
 Of course You should correct path to script if bat file and script not in the same folder.
 
