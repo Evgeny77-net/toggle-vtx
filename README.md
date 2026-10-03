@@ -16,7 +16,7 @@ To start script you should before allow excercurtion of PowerShell scripts with 
 or create bat file where this option included as part of script launching command.
 The **toggle-vtx-GUI.ps1** is a variation of script that add simple GUI for selection mode and file **docker-vtx.bat** is prepared bat file for launching **toggle-vtx-GUI.ps1** script. 
 
-##2026 update
+## 2026 update
 
 Previous version works well on Windows 10, for Windows 11 and Win10 with last updates too it generate some errors.
 Now I recommend use 1.2 script, it tested on Win11 Pro 26H2 and everything OK. Only toggle-vtx-GUI_v1.2.ps1 updated and corresponding docker-vtx.bat to launch it.
